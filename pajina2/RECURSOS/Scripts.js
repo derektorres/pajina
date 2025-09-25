@@ -1,4 +1,3 @@
-//evento que se dispara cuando se termina de cargar el DOM
 document.addEventListener("DOMContentLoaded", function() {
 
     //declaramos una variable en javaScript representada por: btnOK
